@@ -22,3 +22,12 @@ span {
     border: 10px lightgreen ridge;
     margin: 5px;
 }
+
+h1,h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
